@@ -24,7 +24,8 @@
         "drupal/pathauto": "^1.6",
         "drupal/token": "^1.11",
         "drupal/simple_gmap": "^3.0",
-        "drupal/addtoany": "^1.16"
+        "drupal/addtoany": "^1.16",
+        "drupal/scheduler": "^1.4"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2"
