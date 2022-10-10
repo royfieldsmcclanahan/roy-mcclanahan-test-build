@@ -1,7 +1,7 @@
 name: bartik_override
 type: theme
 description: 'A simple override theme with a Bartik base.'
-version: VERSION
+version: 1.x
 core_version_requirement: ^8 || ^9
 libraries:
   - bartik_override/global-styling
