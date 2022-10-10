@@ -1,5 +1,6 @@
 global-styling:
   version: 1.0
   css:
-    base:
-      css/all-pages.css: {}
+    theme:
+      css/style.css: {}
+
